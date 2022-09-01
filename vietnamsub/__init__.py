@@ -1,3 +1,3 @@
-class Docs():
-    def hello(self):
-        print("Hello")
+class vietnamlanguage():
+    def sayhi(self):
+        print("Địt mẹ mày")
