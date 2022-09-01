@@ -8,9 +8,6 @@ setuptools.setup(
     keywords=['vietnam', 'sub', 'python', 'python3'],
     url='https://github.com/khanh101106/Module',
     license="MIT",
-    description="Detect Dung Lai's common errors",
-    long_description=long_description,      # Long description read from the the readme file
-    long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),    # List of all python modules to be installed
     classifiers=[
         "Programming Language :: Python :: 3",
